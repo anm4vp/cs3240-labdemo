@@ -1,2 +1,1 @@
-# cs3240-labdemo - learning how to use git 
-
+# cs3240-labdemo
