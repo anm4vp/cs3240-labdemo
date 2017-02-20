@@ -1,9 +1,8 @@
 
 
-def greeting(msg):
-    print('hello')
+from helper import greeting
 
 
 if __name__ == '__main__':
-    msg = ""
+    msg = "hello"
     greeting(msg)
